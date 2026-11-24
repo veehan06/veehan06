@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Veehan Gurav
 - 👀 I’m interested in different programming languages
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript,HTML,Python,CSS,Java,C++
 - 💞️ I’m looking to collaborate with Mark Rober
 - 📫 How to reach me : veehangurav06@gmail.com 
 
